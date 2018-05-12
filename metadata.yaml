@@ -1,0 +1,39 @@
+_repo: The-Silly-Syclopedia--13-A-Terrible-Thing-in-the-Form-of-a-Literary-Torpedo-which-is-Launched__15705
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Grant, Louis F.
+    gutenberg_agent_id: '6214'
+    url: http://www.gutenberg.org/2009/agents/6214
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hobart, George V. (George Vere)
+    aliases:
+    - Hobart, G. V. (George Vere)
+    - Hobart, George Vere
+    - McHugh, Hugh
+    - Lott, Noah
+    birthdate: 1867
+    deathdate: 1926
+    gutenberg_agent_id: '4454'
+    url: http://www.gutenberg.org/2009/agents/4454
+description: ''
+gutenberg_issued: '2005-04-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15705'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Wit and humor'
+- !lcsh 'Encyclopedias and dictionaries -- Humor'
+title: "The Silly Syclopedia\r\nA Terrible Thing in the Form of a Literary Torpedo\
+  \ which is Launched for Hilarious Purposes Only Inaccurate in Every Particular Containing\
+  \ Copious Etymological Derivations and Other Useless Things"
+url: http://www.gutenberg.org/ebooks/15705
